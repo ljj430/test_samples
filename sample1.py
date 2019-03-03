@@ -7,3 +7,4 @@ def calculate(A,B,C):
 
 #test
 print(calculate(1,2,1))
+print(1/0)
